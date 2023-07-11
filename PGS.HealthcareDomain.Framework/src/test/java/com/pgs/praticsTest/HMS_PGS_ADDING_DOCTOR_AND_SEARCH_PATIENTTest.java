@@ -26,6 +26,7 @@ import com.pgs.pom.LoginPage;
 public class HMS_PGS_ADDING_DOCTOR_AND_SEARCH_PATIENTTest {
 	@Test(enabled = true)
 
+	//sahoo
 	public void addingDoctorandSearchPatient() throws Throwable {
 		FileUtility fLib=new FileUtility();
 		String Project_path = fLib.getFilePathFromPropertiesFile("projectConfigFilePath");
